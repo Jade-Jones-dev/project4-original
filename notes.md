@@ -19,6 +19,11 @@ Things that are noticable
 * Mobile not all things are viewable
 * text size
 color or text in footer
+* titles, description and keywords are missing from page 2
+* title is missing from page one, description and keywords are inappropriate on home page
+* keywords on homepage in 1px that are being hidden is bad practice
+* the page two link needs a proper title ie contact me
+* alt words on images are inappropriate
 
 <!-- lighthouse mobile report -->
 <!-- lighthouse desktop report -->
