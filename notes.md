@@ -13,6 +13,8 @@ Things that are noticable
 * image file compression
 * Images alt tags
 * Mobile not all things are viewable
+* text size
+color or text in footer
 
 lighthouse mobile report
 lighthouse desktop report
